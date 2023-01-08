@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:white;
+    border-radius: 10px;
+}
+
+header a{
+    background-color:darkblue;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.zxc{
+    color: orange;
+    border: 3px solid purple;
+    border-radius: 25px;
+    text-align: center;
+    background-color: purple;
+}
+
+.zxs{
+border: 1px solid rgb(184, 184, 167);
+padding-left: 17px;
+}
+
+footer p{
+    border: 1px solid rgb(184, 184, 167);
+}
+.zxm{
+    border: 2px solid darkblue;
+    border-radius: 7px;
+    text-decoration: none;
+}
+
+.zxg{
+    background-color: darkblue;
+    border-radius: 7px;
+    margin: 30px;
+    padding: 3px;
+    color: white;
+    text-decoration: none;
+    padding-top: 3px;
+}
+
+.logo{
+ text-align: left;
+ height: 120px;
+width: 180px;
+
+}
